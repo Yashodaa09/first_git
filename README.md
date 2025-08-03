@@ -1,4 +1,5 @@
 # first_git
-hello. this is my first git repository.
+Hello. 
+This is my first git repository.
 <br>
 Author - Yashoda Bhandari
